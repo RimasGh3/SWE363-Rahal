@@ -16,7 +16,7 @@ function Navbar() {
                 <NavLink to="/" end className="nav-link" activeClassName="active">
                     Home
                 </NavLink>
-                <NavLink to="/community" className="nav-link" activeClassName="active">
+                    <NavLink to="/community" className="nav-link" activeClassName="active">
                     Community
                 </NavLink>
                 <NavLink to="/book-ride" className="nav-link" activeClassName="active">
